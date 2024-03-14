@@ -1,2 +1,36 @@
-"hello.txt"
-"From my windows " 
+TODO: JAVA ALL FUNDAMENTAL : 
+
+JVM :  java virtual machine || is an abstract machine that enables your computer 
+to run a java program.When you run the java program , Java compiler first compiles
+my java code to bytecode , Then jvm translate it into machine code. 
+
+JRE : JAVA RUNTIME ENVIRONMENT || provide java class libraries,jvm and other components.
+JDK : JAVA development Kit || Develop application in java. 
+
+FIXME: RULES FOR NAMING : 
+
+-> JAVA IS Case sensitive . Hence , age and AGE are two different variables. 
+-> must start with letter or an underscore or a dollar $ sign .
+-> variable can't be whitespace or keyword. 
+
+==> 8 types of data types :  
+-> boolean : 1 bit          || default : False
+-> byte    : 1byte/8bits    || 0        || Stores whole number from -128 to 127
+-> short   : 2 bytes/16bits || 0        || Stores whole number from -32768 to 32767
+-> int     : 4bytes/32bits  || 0        || Stores whole number from -2147483648 
+-> long    : 8bytes/64bits  || 0L       || 
+-> float   : 4bytes/32bits  || 0.0f     || 6 t0 7 decimal digits
+-> double  : 8bytes/64bits  || 0.0d     || 15 decimal digits
+-> char    : 2 bytes/16bits || '\u0000' || stores a single character or ascii value
+
+             char
+              ||
+byte->short->int->  long
+              ||     ||
+            float - double
+              ||
+            boolean
+
+TODO: BINARY NUMBER SYSTEM < JAVA OPERATions AND Taking user INput: 
+
+
