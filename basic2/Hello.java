@@ -1,3 +1,5 @@
+package basic2;
+
 public class Hello {
     // this is a block
 
